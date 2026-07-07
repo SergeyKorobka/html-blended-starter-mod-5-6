@@ -41,6 +41,10 @@ img {
 }
 
 /* Загальні стилі */
+.hidden {
+  display: none;
+}
+
 .sr-only {
   position: absolute;
   white-space: nowrap;
