@@ -68,19 +68,6 @@
   fill: currentColor;
 }
 
-/* Ще один варіант */
-/* .footer-social-icon {
-  display: block;
-  fill: #fbfbfb;
-
-  transition: fill 250ms ease-in-out;
-}
-
-.footer-social-link:hover .footer-social-icon,
-.footer-social-link:focus .footer-social-icon {
-  fill: rgba(251, 251, 251, 0.8);
-} */
-
 .footer-text {
   max-width: 693px;
   margin: 0 auto 99px;
